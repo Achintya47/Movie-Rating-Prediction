@@ -24,9 +24,8 @@ pip install xgboost lightgbm catboost
 All the three stages are in a single Jupyter Notebook, that contains the relevant code and explanations with proper comments and documentation.
 ---
 
-##  Dataset Used
-http://kaggle.com/datasets/adrianmcmahon/imdb-india-movies
-## Note: The python kernel used here is Python 3.12.7
+##  Dataset Used : http://kaggle.com/datasets/adrianmcmahon/imdb-india-movies
+Note: The python kernel used here is Python 3.12.7
 
 ---
 
