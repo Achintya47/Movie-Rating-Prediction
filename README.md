@@ -20,8 +20,8 @@ To run the notebook, ensure you have the following dependencies installed:
 pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
 pip install notebook
 pip install xgboost lightgbm catboost
-All the three stages are in a single Jupyter Notebook, that contains the relevant code and explanations with proper comments and documentation.
 ```
+All the three stages are in a single Jupyter Notebook, that contains the relevant code and explanations with proper comments and documentation.
 ---
 
 ##  Dataset Used
