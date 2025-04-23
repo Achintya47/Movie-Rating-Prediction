@@ -1,4 +1,4 @@
-****************	Movie Rating Prediction By Achintya Sharma	****************
+#Movie Rating Prediction By Achintya Sharma	
 This project consists of a structured pipeline for data analysis and modeling, broken into three stages:
 
 Stage 1: Exploratory Data Analysis (EDA)
