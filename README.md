@@ -12,14 +12,16 @@ All three stages are combined in a single Jupyter Notebook, containing relevant 
 
 ---
 
-## Requirements
 
-To run the notebook, ensure you have the following dependencies installed:
+## Clone my repository and create a virtual environment
+Run the following commands in a seperate folder in VS Code's Terminal
 
 ```bash
-pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
-pip install notebook
-pip install xgboost lightgbm catboost
+git clone https://github.com/Achintya47/Movie-Rating-Prediction.git
+cd Movie-Rating-Prediction
+python -m venv venv
+venv\Scripts\Activate
+pip install -r requirements.txt
 ```
 All the three stages are in a single Jupyter Notebook, that contains the relevant code and explanations with proper comments and documentation.
 ---
