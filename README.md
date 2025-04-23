@@ -24,7 +24,6 @@ venv\Scripts\Activate
 pip install -r requirements.txt
 ```
 After this, you'll be all set to execute the jupyter notebook
-All the three stages are in a single Jupyter Notebook, that contains the relevant code and explanations with proper comments and documentation.
 ---
 
 ##  Dataset Used : http://kaggle.com/datasets/adrianmcmahon/imdb-india-movies
